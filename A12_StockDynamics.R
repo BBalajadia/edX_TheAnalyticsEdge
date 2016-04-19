@@ -5,6 +5,8 @@
 #     Assignment 1.2 -  Stock Dynamics        #
 ###############################################
 
+library(dplyr)
+
 # Set working directory
 setwd("C:/Users/136241/Desktop/MITx_Analytics_Edge/A12_Stock_Dynamics")
 
