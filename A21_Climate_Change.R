@@ -157,7 +157,7 @@ summary(stepModel)
 stepPredict <- predict(stepModel, newdata = test)
 
 # Compute the sum of squared errors (SSE) of prediction
-SSE <- sum((stepPredict - test$Temp)^2)
+SSE <- sum((test$Temp - stepPredict)^2)
 
 # Compute the total sum of squares (SST)
 SST <- sum((test$Temp - mean(train$Temp))^2)
