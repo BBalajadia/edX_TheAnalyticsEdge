@@ -1,7 +1,7 @@
                                     ###############################################
                                     #     Bryan R. Balajadia                      #
                                     #     MITx:15.071x                            #
-                                    #     Unit 1: An Introduction to Analytics    #
+                                    #     Unit 2: Linear Regression               #
                                     #     Assignment 2.1 -  Climate Change        #
                                     ###############################################
 
